@@ -1,11 +1,5 @@
 ### Hi there ，I'm DancingCodes👋<br/>人生如棋，落子无悔。
-
-<img width="400" src="https://filepost.moonc.love/uploadImage/541f7c06-5eab-4f91-897f-aa9e9d214307.gif" />
-
-
 ---
-
-
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=DancingCodes&count_private=true&show_icons=true&theme=buefy" />
 
 <img src="https://img.shields.io/badge/-Vue-22c55d?logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/-React-149eca?&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/-Uniapp-ffffff?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAABCElEQVRoge3YMa4BURSH8Y8o7UAp0WgkotBZwluAfhqlZSgUGr23ENUUCpppJnTswAIUSCaTiziZJ8d9/193zdzrfMltABF5plb+oLscDoAV0Pn8OC/lwDhL0k35QT3wstcIuM61Cj0IhXiNuAvOFwr5SgrxRiHeKMSbhnHfAVgU1i1gajhnBpwK6wnQtgxkDTlmSTq/L7rLYQ9byG+WpLvCOT8YQ6K5WgrxRiHeKMQbhXijEG8U4o1CvIkmxPrDquwMrI37KlFJSJake2BUxVlW0VytaEKsV6t5+8Ohak3rRmtIH9hav/QvRHO1FOKNQrwJheQfn+I9wflCIeNHLzuQc51PRP6rC1ZeIm1I8cC5AAAAAElFTkSuQmCC&logoColor=white" /> <img src="https://img.shields.io/badge/-WXApplet-07c160?logo=WeChat&logoColor=white" /> <img src="https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-5b5b5b?&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/-HTML5-dc143c?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1e90ff?&logo=css3&logoColor=white" />
