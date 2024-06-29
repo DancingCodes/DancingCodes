@@ -1,6 +1,6 @@
 ### Hi there ，I'm DancingCodes👋<br/>人生如棋，落子无悔。
 
-<img align="right" width="400" src="https://filepost.moonc.love/uploadImage/4644f356-a8da-435c-a1c6-24a91815e1df.gif" />
+<img src="https://filepost.moonc.love/uploadImage/4644f356-a8da-435c-a1c6-24a91815e1df.gif" />
 ---
 
 
