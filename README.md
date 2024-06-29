@@ -1,4 +1,4 @@
-### Hi there ，I'm DancingCodes👋 <br/> 十八线边缘城市前端程序员 <br/><br/> 人生如棋，落子无悔。
+### Hi there ，I'm DancingCodes👋<br/>人生如棋，落子无悔。
 ---
 
 
